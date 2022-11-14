@@ -4,6 +4,9 @@ An overview of the international sight seeing project
 
 ![image](InternationalSightSeeing.jpg)
 
+## Ethics
+![image](Ethics.jpg)
+
 ## Certificate
 ![image](USCopyrightCertificate.png)
 
