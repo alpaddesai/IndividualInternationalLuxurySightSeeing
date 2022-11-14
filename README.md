@@ -1,5 +1,5 @@
-# International SightSeeing
+# International Sight Seeing
 
-An overview of the international sightseeing project
+An overview of the international sight seeing project
 
 ![image](InternationalSightSeeing.jpg)
