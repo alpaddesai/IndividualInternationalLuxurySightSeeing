@@ -10,4 +10,4 @@ An overview of the international sight seeing project
 ## Certificate
 ![image](USCopyrightCertificate.png)
 
-Additional details please reference https://github.com/alpaddesai/RealEstatePortfolioIdea
+Additional details please reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022
