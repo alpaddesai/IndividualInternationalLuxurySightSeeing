@@ -1,4 +1,4 @@
-# International Luxury Sight Seeing 2019
+# International Luxury Sight Seeing 
 
 An overview of the international sight seeing project
 
